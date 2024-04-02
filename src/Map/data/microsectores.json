@@ -1,0 +1,1677 @@
+[
+    {
+        "tipo": "microzonas",
+        "id": "10",
+        "denominacion": "10 - 15 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "103",
+        "denominacion": "103 - 75 - MIRAFLORES - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "104",
+        "denominacion": "104 - 49 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "105",
+        "denominacion": "105 - 78 - PACHACAMAC - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "106",
+        "denominacion": "106 - 79 - PUCUSANA - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "107",
+        "denominacion": "107 - 82 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "108",
+        "denominacion": "108 - 84 - PUNTA HERMOSA - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "109",
+        "denominacion": "109 - 85 - PUNTA NEGRA - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "11",
+        "denominacion": "11 - 37 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "112",
+        "denominacion": "112 - 142 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "113",
+        "denominacion": "113 - 96 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "116",
+        "denominacion": "116 - 96 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "118",
+        "denominacion": "118 - 108 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "119",
+        "denominacion": "119 - 142 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "12",
+        "denominacion": "12 - 104 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "121",
+        "denominacion": "121 - 88 - RIMAC - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "122",
+        "denominacion": "122 - 89 - SAN BARTOLO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "123",
+        "denominacion": "123 - 142 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "125",
+        "denominacion": "125 - 142 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "126",
+        "denominacion": "126 - 108 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "127",
+        "denominacion": "127 - 92 - SAN BORJA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "128",
+        "denominacion": "128 - 144 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "129",
+        "denominacion": "129 - 87 - RIMAC - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "13",
+        "denominacion": "13 - 9 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "130",
+        "denominacion": "130 - 148 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "131",
+        "denominacion": "131 - 99 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "132",
+        "denominacion": "132 - 96 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "133",
+        "denominacion": "133 - 97 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "134",
+        "denominacion": "134 - 98 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "135",
+        "denominacion": "135 - 87 - RIMAC - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "137",
+        "denominacion": "137 - 43 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "138",
+        "denominacion": "138 - 101 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "14",
+        "denominacion": "14 - 10 - ANCON - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "146",
+        "denominacion": "146 - 112 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "149",
+        "denominacion": "149 - 146 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "15",
+        "denominacion": "15 - 75 - MIRAFLORES - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "150",
+        "denominacion": "150 - 146 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "151",
+        "denominacion": "151 - 146 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "152",
+        "denominacion": "152 - 43 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "153",
+        "denominacion": "153 - 113 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "154",
+        "denominacion": "154 - 112 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "155",
+        "denominacion": "155 - 83 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "159",
+        "denominacion": "159 - 83 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "16",
+        "denominacion": "16 - 115 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "160",
+        "denominacion": "160 - 107 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "164",
+        "denominacion": "164 - 158 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "166",
+        "denominacion": "166 - 108 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "167",
+        "denominacion": "167 - 113 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "17",
+        "denominacion": "17 - 13 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "171",
+        "denominacion": "171 - 109 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "172",
+        "denominacion": "172 - 80 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "173",
+        "denominacion": "173 - 115 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "174",
+        "denominacion": "174 - 114 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "176",
+        "denominacion": "176 - 118 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "178",
+        "denominacion": "178 - 150 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "179",
+        "denominacion": "179 - 150 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "18",
+        "denominacion": "18 - 12 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "181",
+        "denominacion": "181 - 120 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "182",
+        "denominacion": "182 - 37 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "183",
+        "denominacion": "183 - 80 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "184",
+        "denominacion": "184 - 124 - SANTA MARIA DEL MAR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "185",
+        "denominacion": "185 - 126 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "186",
+        "denominacion": "186 - 80 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "187",
+        "denominacion": "187 - 129 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "188",
+        "denominacion": "188 - 157 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "189",
+        "denominacion": "189 - 128 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "19",
+        "denominacion": "19 - 115 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "190",
+        "denominacion": "190 - 157 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "192",
+        "denominacion": "192 - 117 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "193",
+        "denominacion": "193 - 157 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "194",
+        "denominacion": "194 - 131 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "195",
+        "denominacion": "195 - 42 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "198",
+        "denominacion": "198 - 136 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "200",
+        "denominacion": "200 - 115 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "201",
+        "denominacion": "201 - 114 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "202",
+        "denominacion": "202 - 117 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "203",
+        "denominacion": "203 - 140 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "204",
+        "denominacion": "204 - 80 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "205",
+        "denominacion": "205 - 115 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "206",
+        "denominacion": "206 - 115 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "207",
+        "denominacion": "207 - 114 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "208",
+        "denominacion": "208 - 147 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "209",
+        "denominacion": "209 - 147 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "210",
+        "denominacion": "210 - 143 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "212",
+        "denominacion": "212 - 144 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "213",
+        "denominacion": "213 - 145 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "215",
+        "denominacion": "215 - 149 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "216",
+        "denominacion": "216 - 133 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "217",
+        "denominacion": "217 - 151 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "218",
+        "denominacion": "218 - 148 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "219",
+        "denominacion": "219 - 80 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "223",
+        "denominacion": "223 - 147 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "224",
+        "denominacion": "224 - 154 - CARMEN DE LA LEGUA REYNOSO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "226",
+        "denominacion": "226 - 156 - LA PUNTA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "227",
+        "denominacion": "227 - 158 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "228",
+        "denominacion": "228 - 159 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "229",
+        "denominacion": "229 - 1 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "23",
+        "denominacion": "23 - 65 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "231",
+        "denominacion": "231 - 157 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "232",
+        "denominacion": "232 - 1 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "233",
+        "denominacion": "233 - 80 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "234",
+        "denominacion": "234 - 157 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "237",
+        "denominacion": "237 - 104 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "24",
+        "denominacion": "24 - 14 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "240",
+        "denominacion": "240 - 14 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "248",
+        "denominacion": "248 - 150 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "250",
+        "denominacion": "250 - 155 - LA PERLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "252",
+        "denominacion": "252 - 20 - CARABAYLLO - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "253",
+        "denominacion": "253 - 44 - JESUS MARIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "254",
+        "denominacion": "254 - 22 - CARABAYLLO - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "255",
+        "denominacion": "255 - 150 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "256",
+        "denominacion": "256 - 150 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "257",
+        "denominacion": "257 - 28 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "258",
+        "denominacion": "258 - 11 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "259",
+        "denominacion": "259 - 155 - LA PERLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "260",
+        "denominacion": "260 - 155 - LA PERLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "261",
+        "denominacion": "261 - 27 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "262",
+        "denominacion": "262 - 27 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "263",
+        "denominacion": "263 - 132 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "264",
+        "denominacion": "264 - 131 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "265",
+        "denominacion": "265 - 131 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "266",
+        "denominacion": "266 - 132 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "267",
+        "denominacion": "267 - 29 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "268",
+        "denominacion": "268 - 11 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "269",
+        "denominacion": "269 - 11 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "270",
+        "denominacion": "270 - 24 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "271",
+        "denominacion": "271 - 44 - JESUS MARIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "273",
+        "denominacion": "273 - 3 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "274",
+        "denominacion": "274 - 147 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "277",
+        "denominacion": "277 - 38 - EL AGUSTINO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "278",
+        "denominacion": "278 - 117 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "279",
+        "denominacion": "279 - 139 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "28",
+        "denominacion": "28 - 65 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "280",
+        "denominacion": "280 - 41 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "281",
+        "denominacion": "281 - 41 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "282",
+        "denominacion": "282 - 41 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "283",
+        "denominacion": "283 - 114 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "284",
+        "denominacion": "284 - 61 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "285",
+        "denominacion": "285 - 61 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "286",
+        "denominacion": "286 - 33 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "287",
+        "denominacion": "287 - 35 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "29",
+        "denominacion": "29 - 17 - BARRANCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "290",
+        "denominacion": "290 - 35 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "291",
+        "denominacion": "291 - 60 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "292",
+        "denominacion": "292 - 35 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "293",
+        "denominacion": "293 - 12 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "294",
+        "denominacion": "294 - 12 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "296",
+        "denominacion": "296 - 139 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "30",
+        "denominacion": "30 - 18 - BARRANCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "300",
+        "denominacion": "300 - 136 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "301",
+        "denominacion": "301 - 49 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "304",
+        "denominacion": "304 - 104 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "306",
+        "denominacion": "306 - 128 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "308",
+        "denominacion": "308 - 118 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "309",
+        "denominacion": "309 - 114 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "31",
+        "denominacion": "31 - 75 - MIRAFLORES - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "310",
+        "denominacion": "310 - 114 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "313",
+        "denominacion": "313 - 86 - RIMAC - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "315",
+        "denominacion": "315 - 86 - RIMAC - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "316",
+        "denominacion": "316 - 104 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "318",
+        "denominacion": "318 - 117 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "319",
+        "denominacion": "319 - 86 - RIMAC - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "321",
+        "denominacion": "321 - 86 - RIMAC - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "322",
+        "denominacion": "322 - 117 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "323",
+        "denominacion": "323 - 61 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "324",
+        "denominacion": "324 - 93 - SAN BORJA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "326",
+        "denominacion": "326 - 61 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "327",
+        "denominacion": "327 - 46 - JESUS MARIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "328",
+        "denominacion": "328 - 93 - SAN BORJA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "33",
+        "denominacion": "33 - 16 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "332",
+        "denominacion": "332 - 127 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "334",
+        "denominacion": "334 - 72 - PUEBLO LIBRE - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "339",
+        "denominacion": "339 - 127 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "340",
+        "denominacion": "340 - 58 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "342",
+        "denominacion": "342 - 121 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "343",
+        "denominacion": "343 - 121 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "344",
+        "denominacion": "344 - 59 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "346",
+        "denominacion": "346 - 121 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "347",
+        "denominacion": "347 - 121 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "35",
+        "denominacion": "35 - 21 - CARABAYLLO - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "351",
+        "denominacion": "351 - 60 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "352",
+        "denominacion": "352 - 60 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "354",
+        "denominacion": "354 - 59 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "355",
+        "denominacion": "355 - 58 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "357",
+        "denominacion": "357 - 133 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "358",
+        "denominacion": "358 - 107 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "359",
+        "denominacion": "359 - 107 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "36",
+        "denominacion": "36 - 20 - CARABAYLLO - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "360",
+        "denominacion": "360 - 107 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "361",
+        "denominacion": "361 - 132 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "366",
+        "denominacion": "366 - 133 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "367",
+        "denominacion": "367 - 112 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "368",
+        "denominacion": "368 - 14 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "369",
+        "denominacion": "369 - 97 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "37",
+        "denominacion": "37 - 23 - CHACLACAYO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "371",
+        "denominacion": "371 - 102 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "372",
+        "denominacion": "372 - 6 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "373",
+        "denominacion": "373 - 105 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "374",
+        "denominacion": "374 - 147 - CALLAO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "376",
+        "denominacion": "376 - 154 - CARMEN DE LA LEGUA REYNOSO - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "377",
+        "denominacion": "377 - 40 - EL AGUSTINO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "383",
+        "denominacion": "383 - 6 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "386",
+        "denominacion": "386 - 133 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "387",
+        "denominacion": "387 - 139 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "388",
+        "denominacion": "388 - 139 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "397",
+        "denominacion": "397 - 109 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "398",
+        "denominacion": "398 - 109 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "399",
+        "denominacion": "399 - 108 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "4",
+        "denominacion": "4 - 1 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "40",
+        "denominacion": "40 - 22 - CARABAYLLO - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "401",
+        "denominacion": "401 - 64 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "402",
+        "denominacion": "402 - 100 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "403",
+        "denominacion": "403 - 103 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "404",
+        "denominacion": "404 - 113 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "405",
+        "denominacion": "405 - 113 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "406",
+        "denominacion": "406 - 103 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "407",
+        "denominacion": "407 - 98 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "408",
+        "denominacion": "408 - 22 - CARABAYLLO - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "409",
+        "denominacion": "409 - 64 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "41",
+        "denominacion": "41 - 133 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "410",
+        "denominacion": "410 - 22 - CARABAYLLO - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "412",
+        "denominacion": "412 - 36 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "413",
+        "denominacion": "413 - 98 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "414",
+        "denominacion": "414 - 157 - VENTANILLA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "415",
+        "denominacion": "415 - 65 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "416",
+        "denominacion": "416 - 36 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "418",
+        "denominacion": "418 - 98 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "419",
+        "denominacion": "419 - 65 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "42",
+        "denominacion": "42 - 25 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "420",
+        "denominacion": "420 - 100 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "421",
+        "denominacion": "421 - 81 - PUENTE PIEDRA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "422",
+        "denominacion": "422 - 105 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "423",
+        "denominacion": "423 - 125 - SANTA ROSA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "424",
+        "denominacion": "424 - 33 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "425",
+        "denominacion": "425 - 34 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "426",
+        "denominacion": "426 - 102 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "427",
+        "denominacion": "427 - 102 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "428",
+        "denominacion": "428 - 101 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "43",
+        "denominacion": "43 - 26 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "431",
+        "denominacion": "431 - 9 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "432",
+        "denominacion": "432 - 38 - EL AGUSTINO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "433",
+        "denominacion": "433 - 38 - EL AGUSTINO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "434",
+        "denominacion": "434 - 48 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "439",
+        "denominacion": "439 - 11 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "44",
+        "denominacion": "44 - 24 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "441",
+        "denominacion": "441 - 145 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "442",
+        "denominacion": "442 - 143 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "443",
+        "denominacion": "443 - 26 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "444",
+        "denominacion": "444 - 24 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "446",
+        "denominacion": "446 - 160 - MI PERU - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "447",
+        "denominacion": "447 - 153 - BELLAVISTA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "448",
+        "denominacion": "448 - 153 - BELLAVISTA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "45",
+        "denominacion": "45 - 133 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "453",
+        "denominacion": "453 - 116 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "454",
+        "denominacion": "454 - 8 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "455",
+        "denominacion": "455 - 57 - LINCE - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "456",
+        "denominacion": "456 - 19 - BRENA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "457",
+        "denominacion": "457 - 70 - MAGDALENA DEL MAR - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "458",
+        "denominacion": "458 - 91 - SAN BORJA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "459",
+        "denominacion": "459 - 95 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "46",
+        "denominacion": "46 - 106 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "460",
+        "denominacion": "460 - 4 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "461",
+        "denominacion": "461 - 5 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "462",
+        "denominacion": "462 - 52 - LA VICTORIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "463",
+        "denominacion": "463 - 76 - MIRAFLORES - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "464",
+        "denominacion": "464 - 123 - SANTA ANITA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "465",
+        "denominacion": "465 - 55 - LA VICTORIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "466",
+        "denominacion": "466 - 51 - LA VICTORIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "467",
+        "denominacion": "467 - 90 - SAN BORJA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "468",
+        "denominacion": "468 - 2 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "469",
+        "denominacion": "469 - 135 - SURQUILLO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "47",
+        "denominacion": "47 - 101 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "470",
+        "denominacion": "470 - 7 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "471",
+        "denominacion": "471 - 122 - SANTA ANITA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "472",
+        "denominacion": "472 - 152 - BELLAVISTA - OESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "473",
+        "denominacion": "473 - 53 - LA VICTORIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "474",
+        "denominacion": "474 - 134 - SURQUILLO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "475",
+        "denominacion": "475 - 47 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "476",
+        "denominacion": "476 - 54 - LA VICTORIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "477",
+        "denominacion": "477 - 111 - SAN LUIS - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "478",
+        "denominacion": "478 - 130 - SANTIAGO DE SURCO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "479",
+        "denominacion": "479 - 71 - PUEBLO LIBRE - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "48",
+        "denominacion": "48 - 27 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "480",
+        "denominacion": "480 - 74 - MIRAFLORES - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "481",
+        "denominacion": "481 - 110 - SAN LUIS - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "482",
+        "denominacion": "482 - 119 - SAN MIGUEL - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "483",
+        "denominacion": "483 - 73 - MIRAFLORES - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "49",
+        "denominacion": "49 - 141 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "50",
+        "denominacion": "50 - 61 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "51",
+        "denominacion": "51 - 30 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "52",
+        "denominacion": "52 - 31 - CIENEGUILLA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "53",
+        "denominacion": "53 - 28 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "54",
+        "denominacion": "54 - 29 - CHORRILLOS - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "55",
+        "denominacion": "55 - 61 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "56",
+        "denominacion": "56 - 144 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "57",
+        "denominacion": "57 - 40 - EL AGUSTINO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "58",
+        "denominacion": "58 - 32 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "59",
+        "denominacion": "59 - 34 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "6",
+        "denominacion": "6 - 3 - LIMA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "60",
+        "denominacion": "60 - 33 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "61",
+        "denominacion": "61 - 15 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "62",
+        "denominacion": "62 - 35 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "63",
+        "denominacion": "63 - 16 - ATE VITARTE - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "64",
+        "denominacion": "64 - 77 - PACHACAMAC - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "65",
+        "denominacion": "65 - 39 - EL AGUSTINO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "66",
+        "denominacion": "66 - 38 - EL AGUSTINO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "68",
+        "denominacion": "68 - 94 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "69",
+        "denominacion": "69 - 141 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "70",
+        "denominacion": "70 - 42 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "71",
+        "denominacion": "71 - 77 - PACHACAMAC - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "72",
+        "denominacion": "72 - 45 - JESUS MARIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "73",
+        "denominacion": "73 - 48 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "74",
+        "denominacion": "74 - 46 - JESUS MARIA - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "75",
+        "denominacion": "75 - 50 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "78",
+        "denominacion": "78 - 56 - LINCE - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "79",
+        "denominacion": "79 - 49 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "85",
+        "denominacion": "85 - 141 - VILLA MARIA DEL TRIUNFO - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "86",
+        "denominacion": "86 - 60 - LOS OLIVOS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "90",
+        "denominacion": "90 - 62 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "91",
+        "denominacion": "91 - 63 - LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "92",
+        "denominacion": "92 - 48 - LA MOLINA - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "93",
+        "denominacion": "93 - 66 - LURIN - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "94",
+        "denominacion": "94 - 67 - LURIN - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "95",
+        "denominacion": "95 - 68 - LURIN - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "97",
+        "denominacion": "97 - 94 - SAN ISIDRO - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "98",
+        "denominacion": "98 - 72 - PUEBLO LIBRE - CENTRO"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "991",
+        "denominacion": "991 - 137 - VILLA EL SALVADOR - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "992",
+        "denominacion": "992 - 69 - LURIN - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "993",
+        "denominacion": "993 - 100 - SAN JUAN DE LURIGANCHO - ESTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "994",
+        "denominacion": "994 - 106 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "995",
+        "denominacion": "995 - 106 - SAN JUAN DE MIRAFLORES - SUR"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "996",
+        "denominacion": "996 - 114 - SAN MARTIN DE PORRES - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "997",
+        "denominacion": "997 - 35 - COMAS - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "998",
+        "denominacion": "998 - 42 - INDEPENDENCIA - NORTE"
+    },
+    {
+        "tipo": "microzonas",
+        "id": "999",
+        "denominacion": "999 - 59 - LOS OLIVOS - NORTE"
+    }
+]

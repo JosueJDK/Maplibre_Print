@@ -1,0 +1,19 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "main" ]
+jobs:
+
+  build:
+
+    runs-on: self-hosted
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Stop and remove container
+      run: docker stop atu_big_data && docker rm atu_big_data || true
+    - name: Remove Docker image
+      run: docker rmi -f atu_big_data || true
+    - name: Run docker-compose
+      run: docker compose -f docker-compose-frontend.yml up -d

@@ -1,0 +1,27 @@
+[
+    {
+        "tipo": "macrozonas",
+        "id": "1",
+        "denominacion": "OESTE"
+    },
+    {
+        "tipo": "macrozonas",
+        "id": "2",
+        "denominacion": "CENTRO"
+    },
+    {
+        "tipo": "macrozonas",
+        "id": "3",
+        "denominacion": "ESTE"
+    },
+    {
+        "tipo": "macrozonas",
+        "id": "4",
+        "denominacion": "NORTE"
+    },
+    {
+        "tipo": "macrozonas",
+        "id": "5",
+        "denominacion": "SUR"
+    }
+]

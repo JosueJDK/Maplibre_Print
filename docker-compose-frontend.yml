@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  atu_big_data:
+    container_name: atu_big_data
+    build: .
+    image: atu_big_data
+    ports:
+      - "3070:3070"

@@ -1,0 +1,33 @@
+.footer-component {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  padding: 12px 24px;
+  margin-left: 5rem;
+  margin-right: 5rem;
+  z-index: 100;
+}
+.buttons-center {
+  margin-right: 15em;
+}
+
+.dialog-footer {
+  margin-top:  5rem;
+  padding: 6px;
+}
+
+.dialog-footer p {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.title-dialog {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.move-margin-right {
+  margin-right: 30px;
+}

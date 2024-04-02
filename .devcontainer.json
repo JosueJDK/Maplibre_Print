@@ -1,0 +1,8 @@
+{
+    "name" : "ATU_BIG_DATA_DEV",
+    "dockerComposeFile": ["./docker-compose-frontend.yml"],
+    "service": "atu_big_data",
+    "shutdownAction": "none",
+    "workspaceFolder": "/usr/src/atu_big_data",
+    "extensions": []
+}
